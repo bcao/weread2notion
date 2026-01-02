@@ -1,4 +1,4 @@
 requests
-notion-client
+notion-client<2.6.0
 github-heatmap
 python-dotenv
